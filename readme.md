@@ -9,7 +9,7 @@
 2. Run the container\*\*
 
 ```
-docker compose up -d
+docker-compose up -d
 ```
 
 3. open your browser and go to:
